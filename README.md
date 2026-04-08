@@ -1,6 +1,6 @@
 # Lógica de Programação e Algoritmos (LPA) 🚀
 Este repositório foi criado para armazenar meus estudos, exercícios e projetos
-desenvolvidos durante a disciplina de **POO** no 1o semestre da faculdade.
+desenvolvidos durante a disciplina de **POO** no 2o semestre da faculdade.
 O objetivo aqui é registrar minha evolução no aprendizado de lógica e na resolução de
 problemas computacionais.
 ---
