@@ -7,11 +7,11 @@ problemas computacionais.
 ## 📚 Conteúdos Estudados
 - [x] Formalismos (Modificadores de Acesso e Atributos de Classe)
 - [x] Métodos e variáveis estáticas
-- [ ] Herança
-- [ ] Classe abstrata e Sobrecarga
-- [ ] Polimorfismo
-- [ ] Coleções
-- [ ] Tratamento de Exceções
+- [x] Herança
+- [x] Classe abstrata e Sobrecarga
+- [x] Polimorfismo
+- [x] Coleções
+- [x] Tratamento de Exceções
 ## ️ Tecnologias e Ferramentas
 * **Linguagem Principal:** [Java]
 * **Editor/IDE:** [Eclipse / VS Code]
